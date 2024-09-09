@@ -10,6 +10,6 @@
 <div align="center" hight="500" width="3000">
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RainHoutas&layout=compact&theme=tokyonight&exclude_repo=rainhoutas.github.io&hide_border=true&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RainHoutas&show_icons=true&theme=tokyonight&hide_title=true&hide_rank=true&hide_border=true&bg_color=00000000)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RainHoutas&show_icons=true&theme=tokyonight&hide_title=true&hide_rank=true&hide_border=true&bg_color=00000000&include_all_commits=true)
 
 <div>
